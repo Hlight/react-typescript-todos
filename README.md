@@ -2,6 +2,8 @@
 
 Taski is an app based on a tutorial with additional features added.
 
+LIVE at https://hlight.github.io/react-typescript-todos/
+
 ## Installation
 
 Using `yarn` to install the program.
