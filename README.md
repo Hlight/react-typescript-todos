@@ -1,3 +1,24 @@
+# Taski Demo
+
+Taski is an app based on a tutorial with additional features added.
+
+## Installation
+
+Using `yarn` to install the program.
+
+```bash
+yarn
+```
+
+## Usage
+
+Start the local server
+```bash
+yarn start
+```
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
